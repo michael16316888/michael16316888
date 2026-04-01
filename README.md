@@ -6,9 +6,6 @@
 
 ## 🧑‍💻 About Me
 - 🌱 I’m currently learning **Trusted Artificial Intelligence**
-- 📫 How to reach me: **michael16316888@163.com**
-- ⚡ Fun fact: **TikTok:人字拖爱豆**
-
 ---
 
 ## 🔥 GitHub Stats
