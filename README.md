@@ -1,11 +1,11 @@
 <!-- 你的名字 -->
 <h1 align="center">Hi 👋, I'm michaeller</h1>
-<h3 align="center">🚀 A passionate developer from Shanghai/ECNU 研0</h3>
+<h3 align="center">🚀 A passionate developer from Shanghai/ECNU</h3>
 
 ---
 
 ## 🧑‍💻 About Me
-- 🌱 I’m currently learning **Trusted Artificial Intelligence**
+- 🌱 I’m currently learning **trustworthy large models** and **trustworthy embodied intelligence**.
 ---
 
 ## 🔥 GitHub Stats
