@@ -5,7 +5,7 @@
 ---
 
 ## 🧑‍💻 About Me
-- 🌱 I’m currently learning **trustworthy large models** and **trustworthy embodied intelligence**.
+- 🌱 I’m currently learning **Trustworthy LLMs** and **Embodied Intelligence**.
 ---
 
 ## 🔥 GitHub Stats
